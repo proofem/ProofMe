@@ -354,6 +354,7 @@ If you encounter any issues, please [create a GitHub issue](https://github.com/y
 Built with ❤️ by the ProofMe team. Securing digital content ownership through blockchain technology.
 
 A quick note 🚧
+
 This repository is still under development.
 
 The current code is primarily intended for demos and hackathons.
@@ -361,6 +362,7 @@ Some features may be incomplete, experimental, or non-functional at this stage.
 
 
 🙏 Special Thanks
+
 Huge thanks to the WCSH Hackathon organizers and ICP Hub Egypt
 for this incredible opportunity to showcase our vision.
 
