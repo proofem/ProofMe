@@ -340,7 +340,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### Community
 - [Discord Server](#)
 - [GitHub Discussions](#)
-- [Twitter](https://twitter.com/proofme)
 
 ### Issues
 If you encounter any issues, please [create a GitHub issue](https://github.com/your-org/proofme/issues) with:
